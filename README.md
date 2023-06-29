@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Pasuthep Vannaburana 👋
+
+I'm an aspiring Back-end Developer with a strong eagerness and passion to learn and utilize
+technology to create efficient solutions for solving real-world problems. While I'm relatively
+new in terms of working experience, I always seek opportunities to expand my skills and be
+open to learning new technologies, methodologies and techniques to adapt to the evolving
+needs of my career path.
 
 <!--
 **eark25/eark25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## <h3 align="left">GitHub Stats</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eark25&layout=compact&theme=dark&hide_border=true)
