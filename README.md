@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ## <h3 align="left">GitHub Stats</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eark25&layout=compact&theme=dark&hide_border=true&langs_count=10&hide=c++,shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eark25&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=c%2B%2B,shell)
